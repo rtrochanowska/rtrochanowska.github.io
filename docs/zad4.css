@@ -1,0 +1,21 @@
+body {
+    margin: 25px;
+}
+
+table {
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgb(200, 213, 228);
+    width: 200px;
+    height: 100px;
+}
+
+td {
+    border: solid 1px
+}
+
+img {
+    box-shadow: 10px 10px 20px 2px rgb(138, 139, 140);
+    margin-top: 50px;
+    width: 300px;
+}
